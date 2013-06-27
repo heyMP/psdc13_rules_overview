@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the PSDC2013 Rules Overview feature.
+ */
+
+include_once 'psdc2013_rules_overview.features.inc';
